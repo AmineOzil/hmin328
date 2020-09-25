@@ -7,3 +7,4 @@
 2- Création du corps du package : create or replace package ## body 
 
 On peut regrouper plusieurs utilisateurs en un ROLE puis on leurs donne les privélèges voulus
+Dynamic Sql + excute immediate
